@@ -4,6 +4,10 @@ This repository is an example of use of the [Codiga GitHub Action](https://githu
 
 You can check the file [.github/workflows/main.yml](.github/workflows/main.yml) in this directory to check how to use the Codiga GitHub Action.
 
+![Codiga GitHub Action Workflow](github-action.png "Codiga GitHub Action")
+
+
+
 ## About Codiga
 
  * Automate your code reviews using the [Codiga GitHub App](https://github.com/marketplace/code-inspector)

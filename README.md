@@ -1,3 +1,6 @@
+[Datadog acquired Codiga](https://www.codiga.io/blog/codiga-joins-datadog/). This repository is no longer active.
+
+
 # Use Codiga GitHub Action
 
 This repository is an example of use of the [Codiga GitHub Action](https://github.com/marketplace/actions/codiga-github-action).
